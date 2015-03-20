@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Best_Time_to_Buy_and_Sell_Stock", "Best_Time_to_Buy_and_Sell_Stock\Best_Time_to_Buy_and_Sell_Stock.vcxproj", "{729DE2D7-0A7B-499D-8C80-20FCE9C2366E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729DE2D7-0A7B-499D-8C80-20FCE9C2366E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{729DE2D7-0A7B-499D-8C80-20FCE9C2366E}.Debug|Win32.Build.0 = Debug|Win32
+		{729DE2D7-0A7B-499D-8C80-20FCE9C2366E}.Release|Win32.ActiveCfg = Release|Win32
+		{729DE2D7-0A7B-499D-8C80-20FCE9C2366E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
